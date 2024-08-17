@@ -2,6 +2,7 @@
 @import url(styles/header.css);
 @import url(styles/navbar.css);
 @import url(styles/metricas.css);
+@import url(styles/talentos.css);
 
 :root {
     --cor-de-fundo: #FFFFFF;
@@ -11,6 +12,7 @@
     --fonte-principal: "Inter";
     --vinho: #8E2424;
     --preto: #101828;
+    --vinho-claro: #8e242418;
 
 }
 

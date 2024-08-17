@@ -1,0 +1,32 @@
+.talentos__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5em;
+}
+
+.talentos__container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.talentos__container span {
+    background-color: var(--vinho-claro);
+    color: var(--vinho);
+    padding: 8px 12px;
+    border-radius: 16px;
+    font-size: 14px;
+}
+
+.talentos__container h3 {
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--preto);
+    padding: 0.5em 0;
+}
+
+.talentos__container p {
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 3em;
+}
