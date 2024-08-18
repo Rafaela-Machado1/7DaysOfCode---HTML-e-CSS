@@ -3,16 +3,21 @@
 @import url(styles/navbar.css);
 @import url(styles/metricas.css);
 @import url(styles/talentos.css);
+@import url(styles/vagas.css);
+@import url(styles/depoimentos.css);
+
 
 :root {
     --cor-de-fundo: #FFFFFF;
     --cinza-escuro: #3A404E;
     --cinza: #667085;
+    --cinza-claro: #66708532;
     --branco: #FFFFFF;
     --fonte-principal: "Inter";
     --vinho: #8E2424;
     --preto: #101828;
     --vinho-claro: #8e242418;
+    --rosa-claro: #c3191909;
 
 }
 
@@ -22,4 +27,6 @@ body{
     font-size: 16px;
     font-weight: 500;
     color: var(--cinza);
+    margin-left: 5em;
+    margin-right: 5em;
 }

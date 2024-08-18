@@ -1,8 +1,8 @@
 nav {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 1rem 0;
+    padding: 1em 1em;
 }
 
 .logo {
@@ -11,7 +11,6 @@ nav {
 }
 .nav__texto {
     color: var(--cinza-escuro);
-    margin-left: 1em;
 }
 
 .link a {

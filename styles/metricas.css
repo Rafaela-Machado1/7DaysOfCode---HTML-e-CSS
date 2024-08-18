@@ -2,11 +2,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 6em 4em;
+    margin: 6em 1em;
 }
 
 .metricas__container_conteudo{
-    padding: 0 1em;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
 }
 .metricas__container__titulo {
     color: var(--vinho);

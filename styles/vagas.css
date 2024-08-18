@@ -1,0 +1,39 @@
+.vagas{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    margin: 5em 20em 3em 20em;
+
+}
+
+.vagas__titulo {
+    display: block;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--preto);
+    margin-bottom: 1.5em;
+}
+
+.vaga{
+    border: 1px solid var(--cinza-claro);
+    background-color: transparent;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+.vagas__area_s{
+    margin-top: 2em;
+}
+
+.vaga__titulo{
+    display: block;
+    font-size: 18px;
+    color: var(--preto);
+    margin-bottom: 1.5em;
+}
+
+.vagas__texto span{
+    margin-right: 2em;
+    display: inline;
+}
