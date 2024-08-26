@@ -2,7 +2,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1em 1em;
+    padding: 1em 6em;
 }
 
 .logo {
@@ -11,6 +11,7 @@ nav {
 }
 .nav__texto {
     color: var(--cinza-escuro);
+    margin-left: 10px;
 }
 
 .link a {

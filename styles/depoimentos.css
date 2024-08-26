@@ -5,6 +5,7 @@
     align-items: center;
     flex-direction: column;
     padding: 3em;
+    margin: 0 5em;
 }
 
 .depoimentos__container{

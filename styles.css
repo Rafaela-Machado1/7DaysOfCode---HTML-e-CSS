@@ -5,6 +5,7 @@
 @import url(styles/talentos.css);
 @import url(styles/vagas.css);
 @import url(styles/depoimentos.css);
+@import url(styles/footer.css);
 
 
 :root {
@@ -18,6 +19,8 @@
     --preto: #101828;
     --vinho-claro: #8e242418;
     --rosa-claro: #c3191909;
+    --background-cinza: #d0d5dd2a;
+    --span: #98A2B3;
 
 }
 
@@ -27,6 +30,4 @@ body{
     font-size: 16px;
     font-weight: 500;
     color: var(--cinza);
-    margin-left: 5em;
-    margin-right: 5em;
 }
